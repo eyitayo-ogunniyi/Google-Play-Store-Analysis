@@ -64,7 +64,7 @@ My queries are documented [here](https://github.com/eyitayo22/Google-Play-Store-
 
 I exported my cleaned CSV to Tableau and developed a dashboard to display my findings and communicate my analysis.
 
-![Google Play Store Dashboard](Google-Play-Store-Dashboard.png)
+![Google Play Store Dashboard](Play-Store-Dashboard/play-store-dashboard.png)
 
 ### Insights
 Here are the major insights from my analysis:
