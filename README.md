@@ -63,7 +63,8 @@ I also used CTE and inner join to get the top 10 finance apps based on the senti
 My queries are documented [here](https://github.com/eyitayo22/Google-Play-Store-Analysis/blob/main/Google%20Play%20Store%20Analysis%20Script.sql).
 
 I exported my cleaned CSV to Tableau and developed a dashboard to display my findings and communicate my analysis.
-![Google Play Store Dashboard](Google Play Store Dashboard.png)
+
+![Google Play Store Dashboard](Play-Store-Dashboard/Google Play Store Dashboard.png)
 
 ### Insights
 Here are the major insights from my analysis:
